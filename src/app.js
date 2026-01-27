@@ -1,0 +1,1 @@
+console.log("AWS Cloud Club site loaded");
