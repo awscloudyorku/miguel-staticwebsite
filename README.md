@@ -1,4 +1,4 @@
-# AWS Cloud Club @ York University - Project 1: Static Website
+# Project 1: Static Website
 
 A modern, single-page landing website for the AWS Cloud Club at York University, built with React and deployed on AWS Amplify.
 
